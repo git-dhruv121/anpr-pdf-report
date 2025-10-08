@@ -1,0 +1,6 @@
+Flask
+pandas
+openpyxl
+fpdf2
+werkzeug
+waitress
